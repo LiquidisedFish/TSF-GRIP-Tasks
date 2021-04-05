@@ -1,4 +1,4 @@
-<img height="41" src="https://img.shields.io/badge/The Sparks Foundation GRIP-0d0d0d.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+<img height="41.2" src="https://img.shields.io/badge/The Sparks Foundation GRIP-0d0d0d.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
 <img height="29" src="https://img.shields.io/badge/Data Science & Business Analytics Tasks-0d0d0d.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
