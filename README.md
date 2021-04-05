@@ -1,6 +1,6 @@
 <img height="30" src="https://img.shields.io/badge/The Sparks Foundation - GRIP-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
-<img height="30" src="https://img.shields.io/badge/Data Science & Business Analytics Tasks-grey.svg?&style=for-the-badge&logo=Data Science&BusinessAnalyticsTasks&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/Data Science & Business Analytics Tasks-grey.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
 [![](https://img.shields.io/badge/Author-Manish_Bhardwaj-white.svg)](https://github.com/LiquidisedFish)<br>
 
