@@ -1,12 +1,12 @@
-<img height="30" src="https://img.shields.io/badge/The Sparks Foundation - GRIP-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/The Sparks Foundation GRIP-0d0d0d.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
-<img height="30" src="https://img.shields.io/badge/Data Science & Business Analytics Tasks-grey.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/Data Science & Business Analytics Tasks-0d0d0d.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
-[![](https://img.shields.io/badge/Author-Manish_Bhardwaj-white.svg)](https://github.com/LiquidisedFish)<br>
+[![](https://img.shields.io/badge/Author-Manish_Bhardwaj-0d0d0d.svg)](https://github.com/LiquidisedFish)<br>
 
-![](https://img.shields.io/badge/Programming_Language-Python-black.svg)
-![](https://img.shields.io/badge/Status-Complete-black.svg)
-![](https://img.shields.io/github/license/LiquidisedFish/TSF-GRIP-Tasks.svg?style=black)
+![](https://img.shields.io/badge/Programming_Language-Python-0d0d0d.svg)
+![](https://img.shields.io/badge/Status-Complete-0d0d0d.svg)
+
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
