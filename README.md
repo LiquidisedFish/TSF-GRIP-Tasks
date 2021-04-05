@@ -9,7 +9,7 @@
 
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
+<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
 > Problem statement :
 - Predict the percentage of an student based on the no. of study hours. <br>
@@ -25,7 +25,7 @@
 <a href="https://youtu.be/yPUkaPVM2EY">Prediction using Supervised ML</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -41,18 +41,17 @@ represent it visually.<br>
 <a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
-- As a business manager, try to find out the weak areas where you can work to
-make more profit.<br>
+- As a business manager, try to find out the weak areas where you can work to make more profit.<br>
 - What all business problems you can derive by exploring the data?<br>
-- You can choose any of the tool of your choice<br>
+- You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
@@ -60,7 +59,7 @@ make more profit.<br>
 <a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-ffff00.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -77,7 +76,7 @@ predict the right class accordingly. <br>
 <a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/To explore Business Analytics -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/To explore Business Analytics -Level  Intermediate-ffff00.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -95,7 +94,7 @@ predict the right class accordingly. <br>
 <a href="https://www.youtube.com/watch?v=n_asl4kNRcg">To explore Business Analytics</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) -Level  Intermediate-ffff00.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -113,7 +112,7 @@ predict the right class accordingly. <br>
 <a href="https://youtu.be/a67W7Tl_g-8 ">Exploratory Data Analysis - Terrorism</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) -Level  Advanced-e60000.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -132,7 +131,7 @@ predict the right class accordingly. <br>
 <a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Stock Market Prediction using Numerical and Textual Analysis -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Stock Market Prediction using Numerical and Textual Analysis -Level  Advanced-e60000.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -155,7 +154,7 @@ while not changing the objective of the task.<br>
 <a href="https://youtu.be/4aQkjzaDQIg">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 <br><br>
-<img height="27" src="https://img.shields.io/badge/Timeline Analysis: COVID 19 -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Timeline Analysis: COVID 19 -Level  Advanced-e60000.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem Statement:
@@ -176,4 +175,4 @@ basic as well as advanced charts <br>
 <br>
 <br>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
+<h4 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
