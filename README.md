@@ -22,7 +22,7 @@
 <img height="27" src="https://img.shields.io/badge/2. Prediction using Unsupervised ML -Level  Beginner-00b300.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 > Problem Statement:
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.<br>
-- Use R or Python or perform this task<br>
+- Use R or Python or perform this task.<br>
 - Here is the dataset : <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task%202%20-%20Prediction%20Using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br>
 > Solution: <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task%202%20-%20Prediction%20Using%20Unsupervised%20ML/PredictionUsingUnsupervisedML.ipynb"> Prediction using UnSupervised ML</a><br>
 > YouTube: <a href="https://www.youtube.com/watch?v=p_5g5MUOXZg">Prediction using Unsupervised ML</a>
