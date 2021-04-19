@@ -50,3 +50,16 @@
 - Here is the dataset : <a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
 > Solution: <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task4-EDA(Terrorism)/ExploratoryDataAnalysisTerrorism.ipynb">Exploratory Data Analysis - Terrorism</a><br>
 > YouTube: <a href="https://www.youtube.com/watch?v=rYMe2ZDuhBE">Exploratory Data Analysis - Terrorism</a>
+
+<br><br>
+<img height="27" src="https://img.shields.io/badge/5. Exploratory Data Analysis (Sports) > Level  Advanced-e60000.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+> Problem Statement:
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’<br>
+- As a sports analysts, find out the most successful teams, players and factors
+-contributing win or loss of a team.<br>
+- Suggest teams or players a company should endorse for its products.<br>
+- You can choose any of the tool of your choice
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+- Here is the dataset :  <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task5-EDA(Sports)/deliveries.csv">deliveries.csv</a>  <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task5-EDA(Sports)/matches.csv">matches.csv</a><br>
+> Solution: <a href="https://github.com/LiquidisedFish/TSF-GRIP-Tasks/blob/main/Task5-EDA(Sports)/ExploratoryDataAnalysisSports.ipynb">Exploratory Data Analysis - Sports</a><br>
+> YouTube: <a href="https://youtu.be/aXOHe1lsPBo">Exploratory Data Analysis - Sports</a>
